@@ -1,0 +1,1 @@
+@ECHO OFF && TITLE This is a bundled setup that is already ready for quick start.
