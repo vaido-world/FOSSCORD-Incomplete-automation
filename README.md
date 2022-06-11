@@ -14,7 +14,9 @@ And then start a setup of the project using NodeJS.
 
 To start the project after the Setup, simply double click the `start.cmd` script
 
-Visual Studio does not seem to work outside the `/ProgramFiles/` Folder
+### You have to download and install Visual Studio on your whole computer.
+Visual Studio does not seem to work outside the `/ProgramFiles/` Folder  
+Remember to tick the `"Desktop development with C++"` workload when installing it.  
 
 
 The project uses `curl`, `tar` and other recent native additions to Windows Operating System.  
